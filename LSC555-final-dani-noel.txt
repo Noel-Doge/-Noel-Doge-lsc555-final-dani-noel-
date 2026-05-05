@@ -15,10 +15,10 @@
      
 <h2>Introduction: The Mount Vernon Library </h2>
 
-	 <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Mount_Vernon_Ladies%27_Association_logo.png" style="width:500px;height:300px;">
+	 <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Mount_Vernon_Ladies%27_Association_logo.png" style="width:200px;height:300px;">
 	<p> The Mount Vernon Ladies Association (MVLA) is a non-profit organization that preserves, maintains, and runs what was George Wasghinton’s estate as a historical site. The association itself was founded in 1853 by Ann Pamela Cunningham, and since then has focused on the preservation and education about George Washington, his estate, and his legacy. While there were different, smaller library organizations within the organization of the decades, the MVLA would take a new approach with the construction of the Fred W. Smith National Library for the Study of George Washington building in 2013. It is a museum library designed to be used by MVLA staff, researchers, and by appointment only, not the general public.
     </p>
-    <img src="https://i.imgur.com/5vqH72h.jpeg" style="width:200px;height:300px;">
+    <img src="https://i.imgur.com/5vqH72h.jpeg" style="width:500px;height:300px;">
     
 <h2> Lesley Parilla and MVLA library </h2>
 	<p> For this project, I reached out to the Chief Librarian of the Research Library, Lesley Parilla. She has worked with the MVLA at the George Washington Presidential Library for several years, and had plenty of experience to point me in the right direction. </p>
